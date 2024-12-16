@@ -1,1 +1,19 @@
 Hello pavan welcome to git!
+
+PavanJaanu@PavanJaanu MINGW64 ~/test (master)
+$ history
+    1  git --version
+    2  git help
+    3  gi help config
+    4  git help config
+    5  mkdir test
+    6  cd test
+    7  git init
+    8  git status
+    9  git status
+   10  git add demo.txt
+   11  git commit -m "commting a test file"
+   12  git config --global user.username pavanawsgit
+   13  git remote add origin https://github.com/pavanawsgit/test-demo.git
+   14  git push origin master
+   15  history
